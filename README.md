@@ -1,0 +1,3 @@
+# Algorithms 
+* Dynamic Programming
+* Recursion 
