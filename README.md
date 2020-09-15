@@ -1,3 +1,3 @@
 # Algorithms 
-* Dynamic Programming
-* Recursion 
+* Dynamic Programming (CPP)
+* Recursion (Java)
